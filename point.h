@@ -1,5 +1,5 @@
 #pragma once
-
+// mit liscence
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstdlib>
@@ -11,7 +11,7 @@
 #include <vector>
 #include <ctime>
 #include <windows.h>
-#include <stdlib.h>
+#include <stdlib.h> //
 
 
 using namespace std;
